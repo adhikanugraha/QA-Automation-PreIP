@@ -1,6 +1,6 @@
-# 📱 QA Automation Framework for Mobile Applications
+# 📱 QA Automation for Mobile Applications
 
-This project is a **QA automation framework** for **mobile applications** using **Appium** and **Robot Framework**. The framework supports automated testing for both **Android** and **iOS** platforms, with a **modular folder structure** for easy maintenance and scalability.
+This project is a **QA automation** for **mobile applications** using **Appium** and **Robot Framework**. The framework supports automated testing for both **Android** and **iOS** platforms, with a **modular folder structure** for easy maintenance and scalability.
 
 ---
 
